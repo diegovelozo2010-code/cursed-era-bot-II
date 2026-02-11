@@ -1,0 +1,2330 @@
+{
+  "users": {
+    "1314005122044530774": {
+      "race": "Humano",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 3,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      }
+    },
+    "845520734998364180": {
+      "race": "Humano",
+      "clan": "Normal",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      }
+    },
+    "1465585654640672770": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 105,
+      "bando": null,
+      "grado_social": "Especial",
+      "grado_general": "Especial",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 2
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "energia_positiva": false,
+      "yen": 12000
+    },
+    "1436497940364660848": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      }
+    },
+    "1285628206367379467": {
+      "race": "Humano",
+      "clan": "Itadori",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 3,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      }
+    },
+    "confirm": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "cancel": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "1321589856433995798": {
+      "tienda": null,
+      "race": "Humano",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 3,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "yen": 0
+    },
+    "988505916888457346": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "tipo_prodigio": null,
+      "ritual_hereditario": null,
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "1434618433504284834": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "Fuerza": 0,
+        "Velocidad": 0,
+        "Resistencia": 0,
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "331966552394170370": {
+      "race": "Espíritu Maldito",
+      "clan": "Normal",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 0,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sub-Grado 2",
+          "nivel": 7,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "rivales": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "logros": [],
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "1142166254073946184": {
+      "race": "Humano",
+      "clan": "Normal",
+      "escuela": "Tokyo",
+      "potencial": "Prodigio",
+      "ritual_hereditario": "Ninguno",
+      "atadura": "ninguna",
+      "rr": 99999854,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "logros": [],
+      "amigos": [
+        "992533942404141106"
+      ],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 9000,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "energia_inicial": "ABISMAL",
+      "cantidad_prodigios": 2,
+      "rr_prodigio_usados": 2,
+      "tipos_prodigio": [
+        "Prodigio Energético",
+        "Prodigio Físico"
+      ]
+    },
+    "craft": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "logros": [],
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "1324948565356970067": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Superior",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 3,
+      "bando": null,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "logros": [],
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false
+    },
+    "992533942404141106": {
+      "race": "Humano",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": "PROMEDIO",
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 3,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [
+        "Prodigio Energetico"
+      ],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 16000,
+      "quote": "hola",
+      "icon": "https://cdn.discordapp.com/attachments/1464434816513740801/1469071716096413698/Gojo__Jujutsu_Kaisen_.jpg?ex=69865327&is=698501a7&hm=7166cea78ff3f47343be0f5afb5e834368e7c4197006fcf445dc07508dd5ac98&",
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [
+        "1142166254073946184"
+      ],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 1770673964341,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [
+        {
+          "fecha": 1770324341797,
+          "tipo": "trabajo_trivia",
+          "cantidad": 5500
+        },
+        {
+          "fecha": 1770326240040,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326244257,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326245516,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326246735,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326247954,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770326249900,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326251101,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770326252852,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326254039,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326261786,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 250
+        },
+        {
+          "fecha": 1770326265887,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326269013,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770326271904,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326280847,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1250
+        },
+        {
+          "fecha": 1770326432367,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770326486556,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 40000
+        },
+        {
+          "fecha": 1770334904168,
+          "tipo": "trabajo_trivia",
+          "cantidad": 4800
+        },
+        {
+          "fecha": 1770335122824,
+          "tipo": "apuesta_coinflip_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770335127679,
+          "tipo": "apuesta_coinflip_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770335129264,
+          "tipo": "apuesta_coinflip_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770335150640,
+          "tipo": "apuesta_blackjack_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770336410042,
+          "tipo": "apuesta_blackjack_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770430349777,
+          "tipo": "trabajo_trivia",
+          "cantidad": 3500
+        },
+        {
+          "fecha": 1770673964341,
+          "tipo": "trabajo_reflejos",
+          "cantidad": 6600
+        },
+        {
+          "fecha": 1770674065950,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 250
+        },
+        {
+          "fecha": 1770674068126,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 250
+        },
+        {
+          "fecha": 1770674072936,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770674074648,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770674076092,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770674083021,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770674099693,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770674101468,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770674102660,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 4000
+        },
+        {
+          "fecha": 1770674103678,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 4000
+        },
+        {
+          "fecha": 1770680519992,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770680527108,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 40000
+        },
+        {
+          "fecha": 1770805200870,
+          "tipo": "apuesta_coinflip_ganada",
+          "cantidad": 100
+        },
+        {
+          "fecha": 1770805829901,
+          "tipo": "blackjack_perdido",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770806047121,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806054957,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806065322,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806071373,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806074638,
+          "tipo": "blackjack_natural",
+          "cantidad": 15000
+        },
+        {
+          "fecha": 1770806099624,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806103115,
+          "tipo": "blackjack_ganado",
+          "cantidad": 10000
+        },
+        {
+          "fecha": 1770806120858,
+          "tipo": "blackjack_ganado",
+          "cantidad": 10000
+        },
+        {
+          "fecha": 1770806134455,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806143192,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806149472,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806152613,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806155215,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806158325,
+          "tipo": "blackjack_ganado",
+          "cantidad": 10000
+        },
+        {
+          "fecha": 1770806162521,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806167114,
+          "tipo": "blackjack_perdido",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770806177313,
+          "tipo": "blackjack_empate",
+          "cantidad": 0
+        }
+      ],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Grado 1",
+          "nivel": 15,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 9000,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false,
+      "buffos_prodigio": {
+        "fisico": false,
+        "energetico": true,
+        "inverso": false
+      },
+      "yen": 24500
+    },
+    "332625576294612993": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "1072966615412523068": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "1313514657054593037": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "995584364823969822": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "1209648607968632883": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "814950471064092672": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "888567470141607986": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "1450585200072462568": {
+      "race": "Humano",
+      "clan": "Gojo",
+      "sub_raza": "Maldición Divina",
+      "energia_inicial": "ABISMAL",
+      "escuela": "Tokyo",
+      "potencial": "Prodigio",
+      "ritual_hereditario": "Limitless",
+      "atadura": null,
+      "rr": 1,
+      "bando": "Brujo",
+      "cantidad_prodigios": 2,
+      "tipos_prodigio": [
+        "Prodigio Total",
+        "Prodigio en Dominios"
+      ],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": "Nah, I'd lose.",
+      "icon": "https://cdn.discordapp.com/attachments/1464434816513740801/1469072311004037343/28542246960b238c.jpg?ex=698653b4&is=69850234&hm=8f6f117dd00caaa098e492e0206413c16b88ea0ee01d4ffc5a8ef1e47ae897d3&",
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 1770674000419,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [
+        {
+          "fecha": 1770325428950,
+          "tipo": "trabajo_trivia",
+          "cantidad": 4000
+        },
+        {
+          "fecha": 1770325516722,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -400
+        },
+        {
+          "fecha": 1770325532360,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770325545547,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770325558520,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325606015,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325611206,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770325618111,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770325626604,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770325630530,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770325649848,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770325654212,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770325673181,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325679785,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325685620,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 8000
+        },
+        {
+          "fecha": 1770325709120,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770325744380,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325747155,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770325749921,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770325753016,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325754915,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325756699,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 8000
+        },
+        {
+          "fecha": 1770325819720,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325821830,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770325823437,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770325826588,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770325837410,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325839035,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325840970,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325849523,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 5000
+        },
+        {
+          "fecha": 1770325922083,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 4000
+        },
+        {
+          "fecha": 1770325929907,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325931610,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325933195,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325937575,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -5000
+        },
+        {
+          "fecha": 1770325945861,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -5000
+        },
+        {
+          "fecha": 1770325948237,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2500
+        },
+        {
+          "fecha": 1770325964567,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -5000
+        },
+        {
+          "fecha": 1770325968007,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -5000
+        },
+        {
+          "fecha": 1770325972693,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770325983283,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770325984697,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 4000
+        },
+        {
+          "fecha": 1770325991719,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770325996202,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770326000878,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326005825,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326008850,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326011471,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326013520,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326015436,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770326021657,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770326032998,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326038841,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326089537,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326091379,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326100031,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 4000
+        },
+        {
+          "fecha": 1770326114925,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 0
+        },
+        {
+          "fecha": 1770326118844,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1
+        },
+        {
+          "fecha": 1770326122990,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326125405,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326127428,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326132942,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770326157799,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 5000
+        },
+        {
+          "fecha": 1770326167547,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326172016,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 4000
+        },
+        {
+          "fecha": 1770326210488,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326212966,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326216088,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326217970,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326223803,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -5000
+        },
+        {
+          "fecha": 1770326227428,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326277781,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770326283602,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326290306,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326295333,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326316152,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770326319470,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326321154,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770326327553,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2000
+        },
+        {
+          "fecha": 1770326330362,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326332074,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326344241,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770326357097,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326368928,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326370819,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326372647,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326374199,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 5
+        },
+        {
+          "fecha": 1770326378212,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326379601,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326381743,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326383436,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10
+        },
+        {
+          "fecha": 1770326385034,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 5
+        },
+        {
+          "fecha": 1770326390435,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 10
+        },
+        {
+          "fecha": 1770326398469,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -30
+        },
+        {
+          "fecha": 1770326404764,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 0
+        },
+        {
+          "fecha": 1770326409347,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326414298,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1
+        },
+        {
+          "fecha": 1770326421317,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 0
+        },
+        {
+          "fecha": 1770326426899,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -2
+        },
+        {
+          "fecha": 1770326450358,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1
+        },
+        {
+          "fecha": 1770326518921,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326526721,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 2000
+        },
+        {
+          "fecha": 1770326535941,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326540788,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326542309,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326549003,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -5000
+        },
+        {
+          "fecha": 1770326553956,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770326559407,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -5000
+        },
+        {
+          "fecha": 1770326564576,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326572110,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326578960,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770326584666,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 250
+        },
+        {
+          "fecha": 1770326589951,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770326618322,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326619826,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770326622371,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770326627576,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -750
+        },
+        {
+          "fecha": 1770674000419,
+          "tipo": "trabajo_adivina_fallido",
+          "cantidad": 1200
+        },
+        {
+          "fecha": 1770674029012,
+          "tipo": "apuesta_blackjack_ganada",
+          "cantidad": 1000
+        },
+        {
+          "fecha": 1770674044128,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 500
+        },
+        {
+          "fecha": 1770674059411,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770674068395,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770674076143,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -500
+        },
+        {
+          "fecha": 1770674094023,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -1000
+        },
+        {
+          "fecha": 1770675195114,
+          "tipo": "apuesta_dados_ganada",
+          "cantidad": 10000
+        },
+        {
+          "fecha": 1770675272016,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10000
+        },
+        {
+          "fecha": 1770675278992,
+          "tipo": "apuesta_dados_perdida",
+          "cantidad": -10000
+        }
+      ],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 9000,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false,
+      "buffos_prodigio": {
+        "fisico": false,
+        "energetico": true,
+        "inverso": false
+      },
+      "yen": 200
+    },
+    "1166457693351977091": {
+      "race": "Sin tirar",
+      "clan": "Sin tirar",
+      "sub_raza": null,
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Sin tirar",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 5,
+      "bando": null,
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 0,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    },
+    "1019368464072310896": {
+      "race": "Maldición Anormal",
+      "clan": "Normal",
+      "sub_raza": "Maldición Anormal",
+      "energia_inicial": null,
+      "escuela": "Sin tirar",
+      "potencial": "Superior",
+      "ritual_hereditario": "Sin tirar",
+      "atadura": null,
+      "rr": 3,
+      "bando": "Neutro",
+      "cantidad_prodigios": null,
+      "tipos_prodigio": [],
+      "rr_prodigio_usados": 0,
+      "grado_social": "Sin grado",
+      "grado_general": "Sin grado",
+      "tecnica": "Sin definir",
+      "xp_total": 0,
+      "quote": null,
+      "icon": null,
+      "raza_craft": "Sin definir",
+      "clan_craft": "Sin definir",
+      "especial_1": "Ninguno",
+      "especial_2": "Ninguno",
+      "ritual_craft": "Ninguno",
+      "amigos": [],
+      "rivales": [],
+      "solicitudes_amistad": [],
+      "clan_guild": null,
+      "cooldowns": {
+        "trabajar": 0,
+        "apostar": 0
+      },
+      "prestamos_dados": [],
+      "prestamos_recibidos": [],
+      "ventas_activas": [],
+      "historial_xp": [],
+      "historial_yenes": [],
+      "misiones": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "especial": 0
+      },
+      "stats": {
+        "fuerza": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "velocidad": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "resistencia": {
+          "grado": "Sin grado",
+          "nivel": 1,
+          "sub": "",
+          "xp": 0
+        },
+        "Energía Maldita": 1150,
+        "Objetos": "Ninguno",
+        "Personaje": "Ninguno"
+      },
+      "rct": false,
+      "buffos_prodigio_aplicados": false
+    }
+  }
+}
